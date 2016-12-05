@@ -25,4 +25,6 @@ int main(int argc, char **argv) {
   } else {
     cout << "Compression level was not set.\n";
   }
+
+  return 0;
 }
